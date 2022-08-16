@@ -20,7 +20,7 @@ namespace Method_Overload
         {
             if (isTrue)
             {
-                string plural = (e + f > 0) ? "s" : null;
+                string plural = (e + f > 1) ? "s" : null;
                 return e + f + " dollar" + plural;
 
             }

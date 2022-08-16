@@ -1,3 +1,3 @@
 ﻿using Method_Overload;
 
-Console.WriteLine(Method.Add(5, 2, true));
+Console.WriteLine(Method.Add(0, 1, true));
